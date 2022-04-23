@@ -11,4 +11,4 @@ Codes to create "Forms" in HTML
  9) 8-metatags.html --> code to understand different types of meta tags.
  10) blogpage6.html --> blogpage with simple input form tags.
  11) blogspot7.html --> added some additional tags to the above blogpage.
- 12) blogpagefinal2.html --> project on FORMS.
+ 12) blogpagefinal2.html --> project on FORMS (simple form from the things learnt yet).
